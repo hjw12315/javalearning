@@ -1,0 +1,4 @@
+please enter true or false: 
+true
+111
+the sum is: 518
